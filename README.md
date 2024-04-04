@@ -84,3 +84,7 @@ Column definitions were gathered from [http://www.bom.gov.au/climate/dwo/IDCJDW0
 
 
 Feel free to explore, contribute, and use this project as a reference for your work!
+
+## Accuracy Scores Observed in Model
+![Screenshot 2024-04-04 131651](https://github.com/my3amarnath/Australian-Rainfall-Prediction/assets/39696237/90a0935a-c5c6-4a41-9a36-daaa8a6f2b3f)
+
