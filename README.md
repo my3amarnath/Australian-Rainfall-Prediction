@@ -14,8 +14,6 @@ Classification project in Python. Our objective is to use a rainfall dataset fro
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-FACCA7?style=for-the-badge&logo=Jupyter)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-86B4AD?style=for-the-badge)
-![beautifulsoup](https://img.shields.io/badge/BeautifulSoup-404847?style=for-the-badge)
 
 ## Algorithms to build your models:
 
